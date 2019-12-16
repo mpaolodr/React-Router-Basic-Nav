@@ -16,7 +16,6 @@ const App = () => (
         <Home />
       </Route>
     </Switch>
-
     <Navigation />
   </div>
 );
